@@ -48,7 +48,7 @@ Project is:  _complete_
 
 Room for improvement:
 - You cannot save the pixel art you drew
-- you cannot export it as png to your computer
+- you cannot export art as png to your computer
 
 To do:
 - Ability to save Previous pixel arts
